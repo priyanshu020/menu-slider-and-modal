@@ -5,3 +5,5 @@
 This landing page is built with menu slider leveraging mostly CSS and few lines of JavaScript.
   
 ## Deployment
+
+https://menu-slider-and-modal.netlify.app/
